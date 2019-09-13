@@ -35,8 +35,10 @@ Faça um fork desse projeto para o seu repositório e após isso:
 - Boas práticas de desenvolvimento;
 - Conhecimento na linguagem.
 
-Lembre-se da portabilidade da aplicação. Quanto mais fácil for para subir a aplicação para quem for fazer a correção, melhor você será avaliado. 
 
-Caso deseje se candidatar a vaga de fullstack, faça uma aplicação em Angular 7(ou versão mais nova) que consuma as APIs que você fez para este teste back-end.
 
-Após finalizado o projeto, mande um e-mail para **candidato@gsw.com.br** com seu currículo e a url para o seu repositório do teste e aguarde o RH entrar em contato.
+##### Lembre-se da portabilidade da aplicação. Quanto mais fácil for para subir a aplicação para quem for fazer a correção, melhor você será avaliado. 
+
+##### Caso deseje se candidatar a vaga de fullstack, faça uma aplicação em Angular 7(ou versão mais nova) que consuma as APIs que você fez para este teste back-end.
+
+##### Após finalizado o projeto, mande um e-mail para **candidato@gsw.com.br** com seu currículo e a url para o seu repositório do teste e aguarde o RH entrar em contato.
