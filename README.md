@@ -1,3 +1,6 @@
+![https://www.gsw.com.br/](https://www.gsw.com.br/templates/gsw_solucoes/images/logo-01.svg)
+
+
 # Interview GSW
 
 Trata-se de uma aplicação que simula a entrega de notas quando um cliente efetua um saque em um caixa eletrônico. 
