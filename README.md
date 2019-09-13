@@ -17,15 +17,23 @@ Os requisitos básicos são os seguintes:
 
 ## Instruções
 
-Você deve baixar o projeto, **criar uma branch nova com o seu nome**, trocar esse readme com as intruções para rodar este projeto e após isso criar um pull request para a master quando tiver finalizado.
-O projeto atualmente não 'builda' e nem compila.
+Faça um fork desse projeto para o seu repositório e após isso:
 
 - Fazer o projeto "buildar";
-- Trocar o banco de mySql para h2;
+- Trocar o banco de mySql para qualquer outro banco;
 - Fazer o spring-boot subir;
 - Fazer os testes da aplicação;
 - Aplicar melhorias e testes se achar necessário.
 
-Lembre-se da portabilidade da aplicação. Quanto mais fácil for para subir a aplicação para quem for fazer a correção, melhor você será avaliado.
+## O que será avaliado?
 
-Após baixar e analisar esse projeto, responda com um e-mail o prazo que você levará para concluí-lo.
+- Evoluçao de commits;
+- Cumprimento dos requisitos;
+- Boas práticas de desenvolvimento;
+- Conhecimento na linguagem.
+
+Lembre-se da portabilidade da aplicação. Quanto mais fácil for para subir a aplicação para quem for fazer a correção, melhor você será avaliado. 
+
+Caso deseje se candidatar a vaga de fullstack, faça uma aplicação em Angular 7(ou versão mais nova) que consuma as APIs que você fez para este teste back-end.
+
+Após finalizado o projeto, mande um e-mail para **candidato@gsw.com.br** com seu currículo e a url para o seu repositório do teste e aguarde o RH entrar em contato.
