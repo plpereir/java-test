@@ -2,7 +2,7 @@
 
 # Versao Pedro
 Entrega da versão Full-Stack da aplicação, com o Back-end e Front-end.
-A App faz um crud do cadastro de clientes, bem como o botão de saldo para realizar as operações bancarias.
+A App faz um crud do cadastro de clientes, bem como o botão de saque para realizar a operação bancaria.
 
 # Interview GSW
 
