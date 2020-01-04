@@ -1,5 +1,8 @@
 ![https://www.gsw.com.br/](https://www.gsw.com.br/templates/gsw_solucoes/images/logo-01.svg)
 
+# Versao Pedro
+Entrega da versão Full-Stack da aplicação, com o Back-end e Front-end.
+A App faz um crud do cadastro de clientes, bem como o botão de saldo para realizar as operações bancarias.
 
 # Interview GSW
 

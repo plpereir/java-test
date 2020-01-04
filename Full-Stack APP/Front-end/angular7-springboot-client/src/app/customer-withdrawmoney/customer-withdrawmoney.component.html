@@ -1,0 +1,27 @@
+<h3>Customer - Withdraw Money</h3>
+<hr/>
+<form (ngSubmit)="onSubmit()">
+<div *ngIf="customer">
+  <div>
+    <label><b>First Name: </b></label> {{customer.firstName}}
+  </div>
+  <div>
+    <label><b>Last Name: </b></label> {{customer.lastName}}
+  </div>
+  <div>
+    <label><b>Email: </b></label> {{customer.email}}
+  </div> 
+  <div>
+    <label><b>Account Balance: </b></label> {{customer.accountBalance}}
+  </div> 
+
+  <div>
+    <label><b>Withdraw Money: </b></label> <input (input)="tcode=$event.target.value" type="number" class="col-xs-3">
+<div [hidden]="!submitted">
+   <div   class="alert alert-warning" role="alert" [innerHTML]="tmessage" ></div>
+</div>
+   </div> 
+</div>
+<button (click)="list()" class="btn btn-primary">Back to Customers List</button>
+<button type="submit" class="btn btn-success" style="margin-left: 10px">Withdraw Money</button>
+</form>
